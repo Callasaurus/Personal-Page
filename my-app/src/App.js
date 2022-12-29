@@ -34,7 +34,7 @@ function App() {
         <button className="buttons" onClick={navigateAbout}> ABOUT </button>
         <button className="buttons" onClick={navigateContact}> CONTACT </button>
       </div>
-      
+
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/portfolio" element={<Portfolio />} />

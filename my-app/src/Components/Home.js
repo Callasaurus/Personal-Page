@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './Header';
 import Posts from './Posts';
 import Featured from './Featured';
+import Footer from './Footer';
 import './Home.css'
 
 function Home() {
@@ -11,7 +12,10 @@ function Home() {
             <Header/>
             <Posts/>
             <Featured/>
+            <Footer/>
         </div>
+
+        
     )
 }
 

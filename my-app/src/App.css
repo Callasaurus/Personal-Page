@@ -5,13 +5,15 @@
 .navbar {
   display: flex;
   flex-direction: row;
+  justify-content: flex-end;
+  max-width: 2125px;
 }
 
 .buttons {
   border: none;
   background-color: inherit;
   padding: 14px 28px;
-  font-size: 16px;
+  font-size: 20px;
   cursor: pointer;
   font-weight: bold;
 }

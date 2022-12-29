@@ -1,12 +1,16 @@
 .header {
   display: flex;
   flex-direction: row;
+  margin: 2%;
+  max-width: 1700px;
+  align-items: center;
 }
 
 .text {
   display: flex;
   flex-direction: column;
-  width: 60%;
+  width: 63%;
+  line-height: 1.5;
 }
 
 #pic-calla {
@@ -14,12 +18,17 @@
   width: 25%;
   border-radius: 50%;
   margin-left: 10%;
+  margin-top: 6%;
+}
+
+#h1-tag {
+  font-size: 275%;
 }
 
 #cv-button {
   align-items: center;
   background-clip: padding-box;
-  background-color: #fa6400;
+  background-color: #FF7F50;
   border: 1px solid transparent;
   border-radius: .25rem;
   box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
@@ -28,7 +37,7 @@
   cursor: pointer;
   display: inline-flex;
   font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   justify-content: center;
   line-height: 1.25;
@@ -47,7 +56,7 @@
 
 .cv-button:hover,
 .cv-button:focus {
-  background-color: #fb8332;
+  background-color: #FF7F50;
   box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
 
@@ -56,11 +65,15 @@
 }
 
 .cv-button:active {
-  background-color: #c85000;
+  background-color: #FF7F50;
   box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
   transform: translateY(0);
 }
 
 #a-tag {
     text-decoration: none;
+}
+
+#p-tag {
+    font-size: large;
 }

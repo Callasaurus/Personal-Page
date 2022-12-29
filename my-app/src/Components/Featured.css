@@ -1,0 +1,42 @@
+.featured {
+    margin: 1%;
+    max-width: 1700px;
+    width: 100%;
+}
+
+.featured-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.featured-image {
+    height: 300px;
+    width: 400px;
+    border: 2px solid darkgray;
+}
+
+.featured-items {
+    display: flex;
+    flex-direction: column;
+    border: 20px solid #EEEEEE;
+    background-color: #EEEEEE;
+    align-items: center;
+    margin: 2%;
+}
+
+.feat-p {
+    font-weight: bold;
+    max-width: 420px;
+}
+
+.hr {
+    width: 1px;
+    background-color: darkgray;
+}
+
+.h2-tag {
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 2%;
+}

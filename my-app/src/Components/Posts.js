@@ -13,9 +13,9 @@ function Posts() {
         </div>
 
         <div className='linked-in'>
-          <a href="https://www.linkedin.com/in/calla-sullivan-drage-88a7a5139/"> See all </a>
+          <a href="https://www.linkedin.com/in/calla-sullivan-drage-88a7a5139/" target="_blank" rel="noreferrer"> See all </a>
         </div>
-        
+
       </div>
 
     <div className='linkedin-posts'>
