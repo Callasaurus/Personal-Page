@@ -28,11 +28,13 @@ function App() {
   return (
     <div className="App">
 
-      <button onClick={navigatePortfolio}> PORTFOLIO </button>
-      <button onClick={navigateAbout}> ABOUT </button>
-      <button onClick={navigateContact}> CONTACT </button>
-      <button onClick={navigateHome}> HOME </button>
-
+      <div className="navbar">
+        <button className="buttons" onClick={navigateHome}> HOME </button>
+        <button className="buttons" onClick={navigatePortfolio}> PORTFOLIO </button>
+        <button className="buttons" onClick={navigateAbout}> ABOUT </button>
+        <button className="buttons" onClick={navigateContact}> CONTACT </button>
+      </div>
+      
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/portfolio" element={<Portfolio />} />

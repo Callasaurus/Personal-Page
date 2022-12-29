@@ -1,0 +1,40 @@
+.posts {
+    margin-top: 2%;
+    display: flex;
+    height: 700px;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.posts {
+    display: flex;
+    flex-direction:column;
+}
+
+.recent-posts {
+    margin-left: 2%;
+    float: left;
+    font-weight: bold;
+}
+
+.linked-in {
+    float:right;
+    margin-right: 2%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.linked-in {
+    float:right;
+    text-align: right;
+}
+
+.linkedin-posts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.individual-post {
+    margin: 1%;
+}
