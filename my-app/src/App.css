@@ -12,7 +12,8 @@
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  max-width: 2125px;
+  width: 100%;
+  max-width: 1700px;
 }
 
 .buttons {
@@ -25,6 +26,6 @@
 }
 
 .buttons:hover {
-  background-color: #04aa6d;
+  background-color: #ff7f50;
   color: white;
 }
