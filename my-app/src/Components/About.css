@@ -1,0 +1,40 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1700px;
+    margin: 2%;
+}
+
+.about-items {
+    display: flex;
+    flex-direction: row;
+}
+
+.about-p {
+    margin-left: 3%;
+    font-size: x-large;
+}
+
+.hr-about {
+    width: 100%;
+    background-color: darkgray;
+    margin: 1%;
+  }
+
+.about-h1 {
+    width: 120%;
+    font-size: 200%;
+}
+
+.hr-item-about {
+    margin: 2%;
+    width: 1px;
+    background-color: darkgray;
+}
+
+.about-images {
+    width: 20%; 
+    height: 20%; 
+    margin: auto;
+}
