@@ -10,7 +10,7 @@ function About() {
   return (
     <div className='about'>
 
-      <h1 id='about-h1'> ABOUT ME </h1>
+      <h1 id='about-title'> ABOUT ME </h1>
 
       <div className='about-items'>
         <h1 className='about-h1'> The School of Code </h1>
@@ -22,8 +22,8 @@ function About() {
           and how it can be used in social science research. I found the <a href='https://www.schoolofcode.co.uk/' target="_blank" rel="noreferrer"> School of Code </a> through a mutual friend who was a graduated bootcamper, 
           and felt it was the perfect opportunity for me to make my first steps into the tech world!
           <br /><br />
-          The School of code is a coding bootcamp that is specialised for full-stack JavaScript development. The Curriculum includes: HTML, CSS, JavaScript, TypeScript, React.js, Node.js, APIs and Databases, PostgreSQL, Cloud Hosting, GitHub, Figma, Software deployment, 
-          Testing, Debugging and much more. There is an emphasis on teamwork (frequent group work and pair programming with a new partner each week), problem solving, computational thinking and industry best practices(such as AGILE working). </p>
+          The School of code is a coding bootcamp that is specialised for full-stack JavaScript development. The Curriculum includes: HTML, CSS, JavaScript, TypeScript, React.js, Node.js, APIs and Databases, PostgreSQL, Cloud Hosting, GitHub, UI/UX, Software deployment, 
+          Testing, Debugging and much more. There is an emphasis on teamwork (frequent group work and pair programming with a new partner each week), problem solving, computational thinking and industry best practices (such as AGILE working). </p>
         <hr className='hr-item-about' />
         <img className='about-images' src={soc} alt=''></img>
       </div>

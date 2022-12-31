@@ -31,7 +31,7 @@ function Header() {
           I've always been super interested in tech (mainly through gaming) and I'm a featured co-author on a <a href='https://policy.bristoluniversitypress.co.uk/virtual-reality-methods' target="_blank" rel="noreferrer"> published book on Virtual Reality </a>
           and how it can be used in social science research. I found the School of Code through a mutual friend who was a graduated bootcamper, and felt it was the perfect opportunity for me to make my first steps into the tech world!
           <br /><br />
-          This page gives you a glimpse into my journey from never seeing a line of code prior to the course, to where I am now. Feel free to have a look at some of my projects, my CV and don't hesitate to get in touch!
+          This page gives you a glimpse into my journey from never seeing a line of code prior to the course, to where I am now. Feel free to have a look at some of my projects, my CV and don't hesitate to get in touch! 
         </p>
 
 

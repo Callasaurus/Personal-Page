@@ -12,7 +12,8 @@
 }
 
 .about-p {
-  margin-left: 3%;
+  margin-left: 2%;
+  margin-right: 2%;
   font-size: 130%;
   width: 400%;
 }
@@ -38,4 +39,8 @@
   width: 20%;
   height: 20%;
   margin: auto;
+}
+
+#about-title {
+  font-size: 300%;
 }

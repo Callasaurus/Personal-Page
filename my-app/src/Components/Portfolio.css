@@ -1,0 +1,250 @@
+.portfolio-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2%;
+  max-width: 1700px;
+}
+
+.grid {
+  display: grid;
+  gap: 1px;
+  grid-template-columns: repeat(3, 1fr);
+  width: 1400px;
+  height: 1400px;
+}
+
+.port-a-tag-1 {
+  background-color: #9590a8;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-1:hover {
+  background-color: #9590a8;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.grid-item {
+  margin: auto;
+}
+
+.port-a-tag-2 {
+  background-color: #bfedef;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-2:hover {
+  background-color: #bfedef;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-3 {
+  background-color: #5b7553;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-3:hover {
+  background-color: #5b7553;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-4 {
+  background-color: #98473e;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-4:hover {
+  background-color: #98473e;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-5 {
+  background-color: #c6c8ee;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-5:hover {
+  background-color: #c6c8ee;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-6 {
+  background-color: #fcaa67;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-6:hover {
+  background-color: #fcaa67;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-7 {
+  background-color: #b49a67;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-7:hover {
+  background-color: #b49a67;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-8 {
+  background-color: #ffe66d;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-8:hover {
+  background-color: #ffe66d;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+.port-a-tag-9 {
+  background-color: #c98bb9;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.port-a-tag-9:hover {
+  background-color: #c98bb9;
+  margin: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  opacity: 80%;
+}
+
+#portfolio-title {
+  font-size: 300%;
+}
+
+.github-link {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2%;
+}
+
+.portfolio-p {
+  font-size: 200%;
+  margin: auto;
+}
+
+.paragraph-item {
+  width: 90%;
+  font-weight: bold;
+  font-size: 190%;
+  margin: auto;
+  text-align: center;
+}
+
