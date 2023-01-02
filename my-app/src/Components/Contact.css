@@ -1,25 +1,26 @@
 .contact-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 2%;
-    max-width: 1700px;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2%;
+  max-width: 1700px;
+}
 
 .contact-title {
-    font-size: 300%;
-  }
+  font-size: 300%;
+}
 
-  .contact-info {
-    display: flex;
-    flex-direction: row;
-  }
+.contact-info {
+  display: flex;
+  flex-direction: row;
+}
 
-  .contact-buttons {
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-  }
+.contact-buttons {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 100%;
+}
 
 .indiv-buttons {
   appearance: none;
@@ -40,7 +41,7 @@
   padding: 16px 24px;
   text-align: center;
   text-decoration: none;
-  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -63,4 +64,134 @@
 .indiv-buttons:active {
   box-shadow: none;
   transform: translateY(0);
+}
+
+#contact-img {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 1400px) {
+  .contact-main {
+    max-width: 1300px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .contact-main {
+    max-width: 1200px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1200px) {
+  .contact-main {
+    max-width: 1100px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+}
+
+@media (max-width: 1100px) {
+  .contact-main {
+    max-width: 1000px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1000px) {
+  .contact-main {
+    max-width: 900px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 900px) {
+  .contact-main {
+    max-width: 1100px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 800px) {
+  .contact-main {
+    max-width: 1100px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact-buttons {
+    width: 80%;
+  }
+}
+
+@media (max-width: 700px) {
+  .contact-main {
+    max-width: 600px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 600px) {
+  .contact-main {
+    max-width: 500px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 500px) {
+  .contact-main {
+    max-width: 400px;
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 400px) {
+  .contact-main {
+    max-width: 350px;
+  }
+
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+}
+
+@media (max-width: 350px) {
+  .contact-main {
+    max-width: 300px;
+  }
+
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }

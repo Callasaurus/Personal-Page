@@ -17,12 +17,12 @@ function Header() {
 
 
         <div className='stack-icons'>
-          <img src={html} alt=''></img>
-          <img src={css} alt=''></img>
-          <img src={js} alt=''></img>
-          <img src={ts} alt=''></img>
-          <img src={react} alt=''></img>
-          <img src={node} alt=''></img>
+          <img src={html} alt='' className='icons-stack'></img>
+          <img src={css} alt='' className='icons-stack'></img>
+          <img src={js} alt='' className='icons-stack'></img>
+          <img src={ts} alt='' className='icons-stack'></img>
+          <img src={react} alt='' className='icons-stack'></img>
+          <img src={node} alt='' className='icons-stack'></img>
         </div>
 
         <p id='p-tag'> I'm an aspiring software developer who is currently on the <a href='https://www.schoolofcode.co.uk/' target="_blank" rel="noreferrer"> School of Code </a> 16-week bootcamp.

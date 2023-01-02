@@ -11,7 +11,7 @@ function Portfolio() {
 
       <div className='github-link'>
         <SocialIcon className='icon' url="https://github.com/Callasaurus" target="_blank" rel="noreferrer" />
-        <p className='portfolio-p'> View all of my work on GitHub</p>
+        <p className='portfolio-p'> View all of my work on <b>GitHub</b></p>
       </div>
 
       <div class="grid">
