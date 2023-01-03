@@ -11,9 +11,10 @@
 }
 
 .featured-image {
-  height: 270px;
-  width: 100%;
+  height: auto;
+  width: auto;
   border: 2px solid darkgray;
+  max-width: 100%;
 }
 
 .featured-items {
