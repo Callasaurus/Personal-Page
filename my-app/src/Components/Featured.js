@@ -26,7 +26,7 @@ function Featured() {
         <hr className='hr'/>
         <div className='featured-items'>
           <img className='featured-image' src={weather} alt=''></img>
-          <p className='feat-p'> This is a weather app I created using React and TypeScript. Are you bored of standard weather apps and want some vaiety? If so, this is for you. View <a href='https://github.com/Callasaurus/Week-12-Hackathon-TypeScript-Weather-App' target="_blank" rel="noreferrer"> here </a> on GitHub.  </p>
+          <p className='feat-p'> This is a weather app I created using React and TypeScript. Are you bored of standard weather apps and want some variety? If so, this is for you. View <a href='https://github.com/Callasaurus/Week-12-Hackathon-TypeScript-Weather-App' target="_blank" rel="noreferrer"> here </a> on GitHub.  </p>
         </div>
       </div>
 
