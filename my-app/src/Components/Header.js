@@ -26,7 +26,7 @@ function Header() {
         </div>
 
         <p id='p-tag'> I'm an aspiring software developer who is currently on the <a href='https://www.schoolofcode.co.uk/' target="_blank" rel="noreferrer"> School of Code </a> 16-week bootcamp.
-          Previous to my coding journey, I spent a few years working in market research, which was partly influenced by the fact that I did a research-focused masters.
+          Previous to my coding journey, I spent a few years working in market research, which was influenced by the fact that I did a research-focused masters.
           Although I enjoyed what I did, I always felt like I wasn't challenging myself enough and always planned on making a move into tech when I had a chance.
           I've always been super interested in tech (mainly through gaming) and I'm a featured co-author on a <a href='https://policy.bristoluniversitypress.co.uk/virtual-reality-methods' target="_blank" rel="noreferrer"> published book on Virtual Reality </a>
           and how it can be used in social science research. I found the School of Code through a mutual friend who was a graduated bootcamper, and felt it was the perfect opportunity for me to make my first steps into the tech world!

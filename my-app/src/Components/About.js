@@ -15,7 +15,7 @@ function About() {
       <div className='about-items'>
         <h1 className='about-h1'> The School of Code </h1>
         <hr className='hr-item-about' />
-        <p className='about-p'>  Previous to my coding journey, I spent a few years working in market research, which was partly influenced by the fact that I did a research-focused masters.
+        <p className='about-p'>  Previous to my coding journey, I spent a few years working in market research, which was influenced by the fact that I did a research-focused masters.
           Although I enjoyed what I did, I always felt like I wasn't challenging myself enough and always planned on making a move into tech when I had a chance.
           <br /><br />
           I've always been super interested in tech (mainly through gaming) and I'm a featured co-author on <a href='https://policy.bristoluniversitypress.co.uk/virtual-reality-methods' target="_blank" rel="noreferrer"> published book on Virtual Reality </a>
