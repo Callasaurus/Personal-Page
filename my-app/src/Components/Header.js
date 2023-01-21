@@ -36,10 +36,7 @@ function Header() {
 
 
         <div>
-          <a id='a-tag' href='https://pdfhost.io/v/2dEXrThRO_CV_Calla_SullivanDrage_Dec22' target="_blank" rel="noreferrer">
-            <button id="cv-button"> Download CV ↓ </button>
-          </a>
-
+            <button id="cv-button" onClick={() => window.open(require('../images/CV - Calla Sullivan-Drage - Jan 2023.pdf'), '_none')}> Download CV ↓ </button>
         </div>
 
       </div>
