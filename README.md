@@ -7,7 +7,7 @@ This is a webpage I created to allow potential employers to get to know me, my j
 - React
 - JavaScript
 - CSS
-- Deployment (Netlify)
+- Deployment (Netlify): https://calla-sd.netlify.app/
 
 # The process 
 
