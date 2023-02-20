@@ -11,7 +11,7 @@
 }
 
 .featured-image {
-  height: auto;
+  height: 80%;
   width: auto;
   border: 2px solid darkgray;
   max-width: 100%;
@@ -24,6 +24,7 @@
   background-color: #eeeeee;
   align-items: center;
   margin: 2%;
+  width: 100%;
 }
 
 .feat-p {

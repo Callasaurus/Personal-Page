@@ -13,7 +13,7 @@ function Header() {
     <div className='header'>
 
       <div className='text'>
-        <h1 id='h1-tag'> Hi, I'm Calla, a junior software developer on the 16-week School of Code bootcamp</h1>
+        <h1 id='h1-tag'> Hi, I'm Calla, a junior software developer and graduate of the 16-week School of Code bootcamp</h1>
 
 
         <div className='stack-icons'>
@@ -25,7 +25,7 @@ function Header() {
           <img src={node} alt='' className='icons-stack'></img>
         </div>
 
-        <p id='p-tag'> I'm an aspiring software developer who is currently on the <a href='https://www.schoolofcode.co.uk/' target="_blank" rel="noreferrer"> School of Code </a> 16-week bootcamp.
+        <p id='p-tag'> I'm a software developer and graduate of the <a href='https://www.schoolofcode.co.uk/' target="_blank" rel="noreferrer"> School of Code </a> 16-week bootcamp.
           Previous to my coding journey, I spent a few years working in market research, which was influenced by the fact that I did a research-focused masters.
           Although I enjoyed what I did, I always felt like I wasn't challenging myself enough and always planned on making a move into tech when I had a chance.
           I've always been super interested in tech (mainly through gaming) and I'm a featured co-author on a <a href='https://policy.bristoluniversitypress.co.uk/virtual-reality-methods' target="_blank" rel="noreferrer"> published book on Virtual Reality </a>
